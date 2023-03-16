@@ -13,7 +13,7 @@ A ideia principal é separar a documentação em um repositório a parte para co
 
 O MdA é um sistema para definir e acompanhar suas metas durante o ano.
 
-Baseado na roda da vida, o objetivo é que o usuário possa dar notas para cada area da vida e depois estipular objetivos para cada area da vida.
+Baseado na [[Roda da Vida]], o objetivo é que o usuário possa dar notas para cada area da vida e depois estipular objetivos para cada area da vida.
 
 Em um segundo momento o usuário poderá Criar e acompanhar tarefas para cada objetivo.
 
@@ -24,7 +24,7 @@ Em um segundo momento o usuário poderá Criar e acompanhar tarefas para cada ob
 
   
 
-API  https://github.com/willsantos/
+API  [willsantos/MdA_api: Api do sistema Metas do Ano (github.com)](https://github.com/willsantos/MdA_api)
 
   
 
