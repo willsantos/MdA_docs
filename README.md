@@ -13,7 +13,7 @@ A ideia principal é separar a documentação em um repositório a parte para co
 
 O MdA é um sistema para definir e acompanhar suas metas durante o ano.
 
-Baseado na [[Roda da Vida]], o objetivo é que o usuário possa dar notas para cada area da vida e depois estipular objetivos para cada area da vida.
+Baseado na [Roda da Vida](Roda%20da%20Vida.md), o objetivo é que o usuário possa dar notas para cada area da vida e depois estipular objetivos para cada area da vida.
 
 Em um segundo momento o usuário poderá Criar e acompanhar tarefas para cada objetivo.
 
