@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58bb065d48842218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banco de dados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Banco de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Banco de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Banco de dados.md"
               }
             }
           }
@@ -158,10 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d43724fe773671d2",
+  "active": "58bb065d48842218",
   "lastOpenFiles": [
-    "Roda da Vida.md",
+    "Assets/ModelagensMda.mdj",
     "README.md",
+    "Banco de dados.md",
+    "Assets",
+    "Assets/Pasted image 20230320143235.png",
+    "Roda da Vida.md",
     "Features"
   ]
 }

@@ -3,7 +3,6 @@
 
 Documentação para o ecossistema Metas do Ano, essa documentação é toda feita em markdown, mas está configurada para ser aberta no Obsidian para os que preferirem.
 
-  
 
 A ideia principal é separar a documentação em um repositório a parte para cobrir todo o desenvolvimento.
 
@@ -35,7 +34,8 @@ WEB https://github.com/willsantos/
 Mobile
 
   
-  
+# Diagrama Entidade Relacionamento
+![[Pasted image 20230320143235.png]]
   
 
 # Ideias de Features
