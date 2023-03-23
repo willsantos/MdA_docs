@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58bb065d48842218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Banco de dados.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,13 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58bb065d48842218",
+  "active": "d43724fe773671d2",
   "lastOpenFiles": [
-    "README.md",
+    "Assets/Pasted image 20230320143235.png",
     "Banco de dados.md",
+    "README.md",
+    "Assets/P.md",
     "Assets/ModelagensMda.mdj",
     "Assets",
-    "Assets/Pasted image 20230320143235.png",
     "Roda da Vida.md",
     "Features"
   ]
