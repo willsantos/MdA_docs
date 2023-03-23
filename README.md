@@ -2,6 +2,7 @@
 # Documentação
 
 Documentação para o ecossistema Metas do Ano, essa documentação é toda feita em markdown, mas está configurada para ser aberta no Obsidian para os que preferirem.
+No caso da utilização do Obsidian, não esquecer de converter Wikilinks para o formato padrão do markdown.
 
 
 A ideia principal é separar a documentação em um repositório a parte para cobrir todo o desenvolvimento.
@@ -35,8 +36,9 @@ Mobile
 
   
 # Diagrama Entidade Relacionamento
-![[Pasted image 20230320143235.png]]
-  
+![Diagrama de Entidade Relacionamento](/Assets/Pasted%20image%2020230320143235.png)
+
+
 
 # Ideias de Features
 
@@ -116,6 +118,14 @@ Acho que aqui fica um pouco mais claro, pois uma depende da outra:
 
 ## Revisão Anual
 
+
+# Libs de Front-End que podemos usar
+
+
+## Chartjs 
+Essa parece ser uma boa lib para construir a interface da Roda da Vida 
+https://www.chartjs.org/docs/latest/charts/polar.html
+![Exemplo de grafico polar](/Assets/Pasted%20image%2020230323112737.png)
 
 
 
