@@ -35,7 +35,7 @@ Mobile
 
   
 # Diagrama Entidade Relacionamento
-![[Pasted image 20230320143235.png]]
+![Pasted image 20230320143235.png](Pasted%20image%2020230320143235.png)
   
 
 # Ideias de Features
