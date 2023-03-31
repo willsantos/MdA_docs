@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Banco de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Banco de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Banco de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Banco de dados.md"
               }
             }
           }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +161,14 @@
   },
   "active": "d43724fe773671d2",
   "lastOpenFiles": [
-    "Assets/Pasted image 20230323112737.png",
-    "Banco de dados.md",
     "README.md",
-    "Roda da Vida.md",
+    "Banco de dados.md",
+    "Assets/Pasted image 20230331190914.png",
+    "Assets/Pasted image 20230324210030.png",
     "Assets/Pasted image 20230320143235.png",
+    "Assets/Pasted image 20230323162159.png",
+    "Assets/Pasted image 20230323112737.png",
+    "Roda da Vida.md",
     "Assets/P.md",
     "Assets/ModelagensMda.mdj",
     "Assets",
