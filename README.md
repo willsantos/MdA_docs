@@ -36,7 +36,7 @@ Mobile
 
   
 # Diagrama Entidade Relacionamento
-![Diagrama Entidade Relacionamento v1.2](/Assets/Pasted%20image%2020230324210030.png)
+![Diagrama Entidade Relacionamento v1.3](/Assets/Pasted%20image%2020230331190914.png)
 
 
 

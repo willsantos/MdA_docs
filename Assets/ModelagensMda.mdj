@@ -973,6 +973,21 @@
 										},
 										{
 											"_type": "ERDColumnView",
+											"_id": "AAAAAAGHObZuCRgf9X4=",
+											"_parent": {
+												"$ref": "AAAAAAGGPG+Fx6IhnfA="
+											},
+											"model": {
+												"$ref": "AAAAAAGHObZt9RgcRfU="
+											},
+											"font": "Arial;13;0",
+											"left": 789,
+											"top": 562,
+											"width": 189.7236328125,
+											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
 											"_id": "AAAAAAGGS8x3cvZhxRI=",
 											"_parent": {
 												"$ref": "AAAAAAGGPG+Fx6IhnfA="
@@ -982,7 +997,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 789,
-											"top": 562,
+											"top": 577,
 											"width": 189.7236328125,
 											"height": 13
 										},
@@ -997,7 +1012,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 789,
-											"top": 577,
+											"top": 592,
 											"width": 189.7236328125,
 											"height": 13
 										},
@@ -1012,7 +1027,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 789,
-											"top": 592,
+											"top": 607,
 											"width": 189.7236328125,
 											"height": 13
 										},
@@ -1027,7 +1042,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 789,
-											"top": 607,
+											"top": 622,
 											"width": 189.7236328125,
 											"height": 13
 										}
@@ -1036,14 +1051,14 @@
 									"left": 784,
 									"top": 527,
 									"width": 199.7236328125,
-									"height": 98
+									"height": 113
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 784,
 							"top": 504,
 							"width": 199.7236328125,
-							"height": 121,
+							"height": 136,
 							"nameLabel": {
 								"$ref": "AAAAAAGGPG+Fx6IgXvw="
 							},
@@ -2638,6 +2653,16 @@
 							"referenceTo": {
 								"$ref": "AAAAAAGGS8IEYPYHL04="
 							}
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGHObZt9RgcRfU=",
+							"_parent": {
+								"$ref": "AAAAAAGGPG+Fx6Id30o="
+							},
+							"name": "Nome",
+							"type": "VARCHAR",
+							"length": 0
 						},
 						{
 							"_type": "ERDColumn",
